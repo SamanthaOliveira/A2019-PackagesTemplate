@@ -7,7 +7,7 @@
         <processorPath useClasspath="false">
           <entry name="$PROJECT_DIR$/libs/command-processor-1.0.0-SNAPSHOT.jar" />
         </processorPath>
-        <module name="Pacote-da-Samantha.main" />
+        <module name="Pacote-do-Workshop.main" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11" />

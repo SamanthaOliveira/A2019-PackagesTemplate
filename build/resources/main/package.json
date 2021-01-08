@@ -3,9 +3,9 @@
     "label": "A\u00e7\u00f5es de Samantha",
     "description": "Algumas a\u00e7\u00f5es legais.",
     "group": "com.automationanywhere",
-    "artifactName": "Pacote-da-Samantha",
-    "packageVersion": "1.0.0-20201230-135025",
-    "codeVersion": "1.0.0-20201230-135025",
+    "artifactName": "Pacote-do-Workshop",
+    "packageVersion": "1.0.0-20201230-152552",
+    "codeVersion": "1.0.0-20201230-152552",
     "commands": [
         {
             "name": "EndSession",
